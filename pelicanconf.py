@@ -23,8 +23,8 @@ TRANSLATION_FEED_ATOM = None
 #~ #LINKS = (('Facebook', 'https://www.facebook.com/pages/Belfast-Science-Cafe/213056878715198?fref=ts'))
 #~ 
 #~ # Social widget
-#~ SOCIAL = (('You can add links in your config file', '#'),
-         #~ ('Another social link', '#'),)
+SOCIAL = (('Facebook', 'https://www.facebook.com/pages/Belfast-Science-Cafe/213056878715198?fref=ts'),
+         ('Cafe Scientifique', 'http://www.cafescientifique.org/'),)
 
 DEFAULT_PAGINATION = 5
 
