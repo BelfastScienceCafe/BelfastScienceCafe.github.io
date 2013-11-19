@@ -5,6 +5,11 @@ Author: Eoin Travers
 Summary: Info on the Belfast Science Cafe
 
 ## What's coming up?
+On Thursday November 19th, QUB's Professor Aaron Maule will present 
+"Parasitic Worms: A Tale of Pabulum, Plague, Poverty & Plagiarism",
+in association with Giving What We Can: QUB, and the Belfast Science Cafe.
+"Parasitic Worms: A Tale of Pabulum, Plague, Poverty & Plagiarism", by Prof. Aaron Maule, of QUB. 
+<!---
 <table>
 	<thead>
     <tr style="border-bottom: 2px solid black;">
@@ -29,3 +34,4 @@ Summary: Info on the Belfast Science Cafe
     </tr>
 	</tbody>
 </table>
+-->
