@@ -1,4 +1,6 @@
-website_pelican
+BelfastScienceCafe.github.io
 ===============
 
-Source code for generating BelfastScienceCafe.github.io using Pelican
+A website for the Belfast Science Cafe.
+
+Powered by Pelican, and uses a custom MakeFile to manage commits to GitHub pages.
