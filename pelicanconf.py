@@ -31,5 +31,6 @@ DEFAULT_PAGINATION = 5
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-#THEME = 'themes/nmnlist'
+THEME = 'themes/notmyidea'
 INDEX_SAVE_AS = 'pages/news.html'
+MENUITEMS = [('News', 'pages/news.html')]
