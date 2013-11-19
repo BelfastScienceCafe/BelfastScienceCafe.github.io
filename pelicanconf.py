@@ -16,14 +16,15 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+#LINKS =  (('Pelican', 'http://getpelican.com/'),
+#          ('Python.org', 'http://python.org/'),
+#          ('Jinja2', 'http://jinja.pocoo.org/'),
+#          ('You can modify those links in your config file', '#'),)
+LINKS = (('Facebook', 'https://www.facebook.com/pages/Belfast-Science-Cafe/213056878715198?fref=ts'))
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = ()#(('You can add links in your config file', '#'),
+          #('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 5
 
@@ -31,3 +32,4 @@ DEFAULT_PAGINATION = 5
 #RELATIVE_URLS = True
 
 #THEME = 'themes/nmnlist'
+INDEX_SAVE_AS = 'pages/news.html'
