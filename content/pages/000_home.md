@@ -13,4 +13,12 @@ you can hear our invited speakers' insights on a topic close to their hearts,
 followed by open discussion, and an informal chat over a few drinks.
 
 ## Events
-Check out our news feed to find out about upcoming events.
+Check out our [events feed](events.html) to find out about upcoming events.
+
+## The best is yet to come...
+The Cafe has recently relaunched itself,
+and we're looking forward to hosting many more events in the future.
+If you're interested in getting involved, be sure to come and talk to use at the next event.
+<!-- To do: Email Address -->
+
+This webpage is also under construction, so be sure to check back for more information later.

@@ -25,6 +25,9 @@ CLOUDFILES_CONTAINER=my_cloudfiles_container
 
 DROPBOX_DIR=~/Dropbox/Public/
 
+TODAY=$(shell date +"%d-%m-%Y*%a*%H:%M")
+
+
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
@@ -104,5 +107,11 @@ cf_upload: publish
 github: publish
 	ghp-import $(OUTPUTDIR)
 	git push origin gh-pages
+
+github-master: html
+	git checkout source
+	ghp-import $(OUTPUTDIR) -p -b master -m $(TODAY)
+
+
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github

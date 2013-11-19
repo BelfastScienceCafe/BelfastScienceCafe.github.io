@@ -16,15 +16,15 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-#LINKS =  (('Pelican', 'http://getpelican.com/'),
-#          ('Python.org', 'http://python.org/'),
-#          ('Jinja2', 'http://jinja.pocoo.org/'),
-#          ('You can modify those links in your config file', '#'),)
-LINKS = (('Facebook', 'https://www.facebook.com/pages/Belfast-Science-Cafe/213056878715198?fref=ts'))
-
-# Social widget
-SOCIAL = ()#(('You can add links in your config file', '#'),
-          #('Another social link', '#'),)
+#~ LINKS =  (('Pelican', 'http://getpelican.com/'),
+          #~ ('Python.org', 'http://python.org/'),
+          #~ ('Jinja2', 'http://jinja.pocoo.org/'),
+          #~ ('You can modify those links in your config file', '#'),)
+#~ #LINKS = (('Facebook', 'https://www.facebook.com/pages/Belfast-Science-Cafe/213056878715198?fref=ts'))
+#~ 
+#~ # Social widget
+#~ SOCIAL = (('You can add links in your config file', '#'),
+         #~ ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 5
 
@@ -32,5 +32,14 @@ DEFAULT_PAGINATION = 5
 #RELATIVE_URLS = True
 
 THEME = 'themes/notmyidea'
-INDEX_SAVE_AS = 'pages/news.html'
-MENUITEMS = [('News', 'pages/news.html')]
+
+#~ SITE_URL = 'http://belfastsciencecafe.github.io'
+#~ RELATIVE_URLS = False
+
+INDEX_SAVE_AS = 'events.html'
+PAGE_SAVE_AS = '{slug}.html'
+PAGE_URL = '{slug}.html'
+
+
+MENUITEMS = [('Home', 'index.html'), ('Events', 'events.html')]
+DISPLAY_CATEGORIES_ON_MENU = False
