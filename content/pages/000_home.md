@@ -2,6 +2,7 @@ Title: Home
 Date: 2010-12-03 10:20
 Slug: home
 Status: hidden
+Tags: Belfast, Science Cafe, Science, Northern Ireland, Queen's University Belfast, QUB, Jordanstown, UUJ 
 Author: Eoin Travers
 Summary: Home page for the site
 save_as: index.html
