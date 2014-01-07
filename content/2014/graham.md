@@ -6,7 +6,7 @@ Tags: events
 Author: Gwenaël Atcheson
 Summary: The Physics of Beer
 
-<img align="right" style="width:25%" src="images/beer.jpeg" /> 
+<img align="right" style="width:25%" src="/images/beer.jpeg" /> 
 
 
 On Wednesday January 29th, Prof. [Bill Graham](http://www.qub.ac.uk/schools/SchoolofMathematicsandPhysics/Staff/StaffInfo/?id=8) of QUB will present **The Physics of Beer**.
