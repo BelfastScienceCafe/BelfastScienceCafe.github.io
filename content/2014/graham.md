@@ -20,3 +20,6 @@ Elmwood Avenue, from 7PM. ([Map](https://www.google.co.uk/maps/preview#!data=!1m
 Entry is Free, as always.
 
 Hope to see you all there!
+
+<img style="width:3%" src="/images/facebook.png" /> 
+View on [Facebook](https://www.facebook.com/events/251629411666217/?ref=22)
